@@ -1,0 +1,15 @@
+﻿fastapi
+uvicorn[standard]
+streamlit
+mlflow
+scikit-learn
+pandas
+numpy
+scipy
+transformers
+torch
+vaderSentiment
+requests
+python-dotenv
+
+plotly
